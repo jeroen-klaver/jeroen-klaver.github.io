@@ -28,21 +28,21 @@ url: "https://jksmarthome.nl"
 github:
   username: jeroen-klaver # change to your github username
 
-twitter:
-  username: twitter_username # change to your twitter username
+#twitter:
+#  username: twitter_username # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Jeroen Klaver
-  email: example@domain.com # change to your email address
+  #email: example@domain.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    # - https://twitter.com/username # change to your twitter homepage
+    - https://www.linkedin.com/in/jeroen-klaver/ # change to your twitter homepage
     - https://github.com/jeroen-klaver # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    #- https://www.linkedin.com/in/jeroen-klaver/
 
 # Site Verification Settings
 webmaster_verifications:
