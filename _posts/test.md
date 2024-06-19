@@ -1,0 +1,14 @@
+---
+title: Dit is een test
+date: 2024-06-19 12:00
+categories: [test]
+tags: [smarthome,test,hue,homekit,homeassistant]
+---
+
+# Dit is een test post
+
+Want je moet toch testen niet waar?
+
+...php
+<?php ?>
+...
